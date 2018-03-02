@@ -2957,9 +2957,7 @@
     display: table-cell !important;
   }
 }
-.hidden-xs {
-  display: block !important;
-}
+
 table.hidden-xs {
   display: table;
 }
